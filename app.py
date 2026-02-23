@@ -51,7 +51,7 @@ st.sidebar.write("---")
 st.sidebar.markdown("### Professional Links")
 st.sidebar.markdown("[LinkedIn Profile](https://www.linkedin.com/in/yachana-choudhary/)")
 st.sidebar.markdown("[GitHub Repository](https://github.com/yachanachoudhary)")
-st.sidebar.info("Contact: 24msrds063@jainuniversity.ac.in")
+st.sidebar.info("Contact: yachanachoudhary8@gmail.com")
 
 # --- PAGE 1: OVERVIEW DASHBOARD ---
 if page == "Overview Dashboard":
@@ -161,4 +161,5 @@ elif page == "Research & Certifications":
     st.write("- **IBM**: Machine Learning with Python")
     st.write("- **University of Colorado**: Probability Foundations for Data Science and AI")
     st.write("- **UC Santa Cruz**: Bayesian Statistics: Concepts, Data Analysis, and Models")
+
     st.write("- **Jain University**: Big Data, SAS Programming, and Essentials of NLP")
